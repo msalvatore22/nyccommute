@@ -1,0 +1,4 @@
+grpcio-tools
+requests
+confluent-kafka
+arrow
